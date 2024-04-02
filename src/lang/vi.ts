@@ -27,7 +27,7 @@ const vi = {
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/an-tran-4417b927b/",
       },
       {
         icon: "SiGithub",
