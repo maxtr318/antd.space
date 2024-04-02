@@ -54,7 +54,7 @@ const vi = {
         {
           icon: "FaFacebook",
           title: "maxtr318",
-          link: "https://facebook.com/maxtr318/",
+          link: "https://facebook.com/maxtr318",
         },
       ],
     },
