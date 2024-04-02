@@ -23,7 +23,7 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:.tr318@gmail.com",
       },
       {
         icon: "SiLinkedin",
@@ -49,9 +49,9 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là An Trần",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
+        "Mình hiện tại đang là một Graphic Designer. Đây là một website mình tạo ra với mong muốn được chia sẻ các sản phẩm thiết kế của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
