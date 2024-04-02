@@ -61,8 +61,8 @@ const vi = {
         },
         {
           icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          title: "maxtr318",
+          link: "https://facebook.com/maxtr318/",
         },
         {
           icon: "FaGithub",
