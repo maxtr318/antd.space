@@ -23,19 +23,15 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:.tr318@gmail.com",
+        link: "mailto:max.tr318@gmail.com",
       },
       {
         icon: "SiLinkedin",
         link: "https://www.linkedin.com/in/an-tran-4417b927b/",
       },
       {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/maxtr318",
+        link: "https://www.facebook.com/maxtr318/",
       },
       
     ],
