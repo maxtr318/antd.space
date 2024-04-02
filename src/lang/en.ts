@@ -24,7 +24,7 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:.tr318@gmail.com",
       },
       {
         title: "Linkedin",
@@ -54,9 +54,9 @@ const en = {
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, I'm An Tran",
       description:
-        "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
+        "I am currently a Graphic Designer. This is a website I created with the desire to share my designs to everyone. Thank you to everyone who visited. ❤️",
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
