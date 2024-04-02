@@ -56,11 +56,6 @@ const vi = {
           title: "maxtr318",
           link: "https://facebook.com/maxtr318/",
         },
-        {
-          icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
-        },
       ],
     },
     featured_posts: "Bài Viết Đặc Sắc",
