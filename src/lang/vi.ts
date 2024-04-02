@@ -30,16 +30,12 @@ const vi = {
         link: "https://www.linkedin.com/in/an-tran-4417b927b/",
       },
       {
-        icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
         icon: "SiGitlab",
         link: "https://gitlab.com/howznguyen",
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/maxtr318",
       },
       
     ],
